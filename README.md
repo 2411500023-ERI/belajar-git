@@ -1,2 +1,3 @@
 # belajar-git
-ini repository untuk belajar git
+ini logo apple
+[ic_apple](ic_apple.png)
